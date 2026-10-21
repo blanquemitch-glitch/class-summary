@@ -1,0 +1,9 @@
+{
+  "name": "课堂总结",
+  "short_name": "课堂总结",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f5f7",
+  "theme_color": "#0b6e6e",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
